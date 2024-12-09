@@ -1,0 +1,2 @@
+rootProject.name = "HomeAI"
+include ':app'
